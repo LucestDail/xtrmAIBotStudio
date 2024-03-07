@@ -1,0 +1,1 @@
+export default { stroke: '#000' };
